@@ -9,3 +9,4 @@ scipy >= 1.11.4
 sqlalchemy == 2.0.36
 pyarrow >= 17.0.0
 plotly>=5.16.1
+pickle  == 1.4.2
